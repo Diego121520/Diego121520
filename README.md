@@ -5,7 +5,7 @@ Soy Full Stack developer con orientacion al Back-end. Soy apasionado por la tecn
 
 # Lenguajes
 - Front End: JavaScript, React, Redux, TailwindCSS, Bootstrap.
-- Back End: NodeJS, Express, PostgreSQL, MongoDB.
+- Back End: NodeJS, Express, PHP, Laravel, Java, Spring, MySQL, PostgreSQL, MongoDB.
 
 # Proyectos
 
